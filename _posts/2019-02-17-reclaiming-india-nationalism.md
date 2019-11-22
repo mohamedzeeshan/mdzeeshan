@@ -2,8 +2,8 @@
 layout: post
 title: "Reclaiming India’s Nationalist Movement"
 categories: ["Indian nationalism", "political reform", "identity politics"]
-location: "Freedom Gazette"
-snippet: "The cause of Indian freedom inspired people around the world because it was a cause of universal values, rather than a struggle for ethnic supremacy or cultural domination. The cause was not the assertion of an ethnic or cultural identity of Indian-ness; it was for the realisation of fundamental human rights. (Published in Freedom Gazette)"
+location: "Freedom Gazette and The Print"
+snippet: "The cause of Indian freedom inspired people around the world because it was a cause of universal values, rather than a struggle for ethnic supremacy or cultural domination. The cause was not the assertion of an ethnic or cultural identity of Indian-ness; it was for the realisation of fundamental human rights. (Published in Freedom Gazette and The Print)"
 ---
 
 In recent years, the term ‘nationalist’ has come to represent odious connotations around the world. Many parts of the West are struggling with a surge of neo-Nazi, far-right movements, claiming to be made of ‘nationalists’ reclaiming their countries. The overarching message of many of these movements is xenophobic – fearful of, and violent towards, those whom the ideologues see as being ‘different’, either in physical appearance, personal beliefs or cultural practices.
@@ -34,4 +34,4 @@ In South Africa, Nelson Mandela’s struggle for a non-racial, democratic nation
 
 The true cause of Indian nationalism is the realisation of a multicultural nation of equal and absolute individual liberties – where every individual is free to be her own unique self, free from inhibitions and free from societal or political pressures. The Indian dream is a nation that is not just conducive to all identities, but also one that sets examples for the rest of the world. India is as yet far from fulfilling its ideals; but this is a journey which India must undertake, not just for itself but also for the world.
 
-(c) 2019, Freedom Gazette
+(c) 2019, Freedom Gazette and The Print
