@@ -2,8 +2,8 @@
 layout: post
 title: "The Existential Crisis in Indian Foreign Policy"
 categories: ["Narendra Modi", "foreign policy", "Pakistan", "Pulwama", "surgical strike"]
-location: "Freedom Gazette"
-snippet: "Indian foreign policy must now pursue global influence, but chest-thumping goes the wrong way. A self-centred and muscular foreign policy which seeks to establish India at the centre of the universe is counter-productive in the pursuit for global influence. ‘Influence’, by its very nature, requires alliances and common purpose, rather than one-upmanship and self-centred policymaking. (Published in Freedom Gazette)"
+location: "Freedom Gazette and The Print"
+snippet: "Indian foreign policy must now pursue global influence, but chest-thumping goes the wrong way. A self-centred and muscular foreign policy which seeks to establish India at the centre of the universe is counter-productive in the pursuit for global influence. ‘Influence’, by its very nature, requires alliances and common purpose, rather than one-upmanship and self-centred policymaking. (Published in Freedom Gazette and The Print)"
 ---
 
 In Indian election rhetoric, foreign policy is the forgotten son. Let’s face it, foreign policy doesn’t win you votes. Given the complexities of India’s vast and diverse domestic landscape, few Indians spend much time worrying about problems in other parts of the world. No Indian prime minister has ever won office solely because of his or her foreign policy acumen, and most political frontrunners in India have had little or no experience with diplomacy or international affairs.
@@ -36,4 +36,4 @@ A self-centred and muscular foreign policy which seeks to establish India at the
 
 The purpose of Indian foreign policy must be re-oriented towards the development of such a strategic framework – one that makes India useful and valuable to the aspirations of other states. That begins by recognizing the need for a global identity for India on the world stage – one that defines what India needs and what India can do for the rest of the world. This is an existential debate in Indian foreign policy that is long overdue.
 
-(c) 2019, Freedom Gazette
+(c) 2019, Freedom Gazette and The Print
