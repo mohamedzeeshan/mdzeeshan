@@ -6,7 +6,7 @@ permalink: /
 
 {% include image.html url="images/Newphoto.jpg" caption="" max_width="300px" align="right" %}
 
-Mohamed Zeeshan is a policy analyst and media commentator. He has written on foreign policy and international affairs for The Diplomat, The National Interest, India Today and other mainstream publications around the world, including columns on foreign affairs for the Deccan Herald. He is a Founding Partner of Freedom Gazette - a new Indian policy advocacy site and holds a Master's degree in International Affairs from Columbia University.
+Mohamed Zeeshan is a policy analyst and media commentator. He has written on foreign policy and international affairs for The Diplomat, The National Interest, India Today and other mainstream publications around the world, and is currently author of 'The Z Factor' - a Sunday monthly column in the Deccan Herald. He is a Founding Partner of Freedom Gazette - a new Indian policy advocacy site and holds a Master's degree in International Affairs from Columbia University.
 
 ## Contact
 
