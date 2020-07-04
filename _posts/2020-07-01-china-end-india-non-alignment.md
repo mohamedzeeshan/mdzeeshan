@@ -31,3 +31,5 @@ All this could now change with the unprecedented standoff with China on the bord
 The deaths of Indian soldiers for the first time in several years could prove to be the last straw. Policymakers in New Delhi are now considering Trump’s supposedly anti-China expansion of the G-7 very favorably. More significantly, in early June, India indicated that it might invite Australia to the Malabar exercises this year – thereby expanding it into a true Quad initiative.
 
 India has debated its non-alignment principles for several years – even if, each year, it moved closer and closer to the United States. That debate seems headed for a more decisive settlement. If New Delhi does indeed want to pursue a paradigm shift in its foreign policy, the stage is now set: In May, India became head of the WHO’s decision-making Executive Board. A month later, it took over as a non-permanent member of the UN Security Council. India might behave somewhat differently now at these forums. We could soon see a new foreign policy.
+
+(c) 2020, The Diplomat
