@@ -18,7 +18,7 @@ Yet, for all the tightrope-walking, New Delhi has not much to show for it. Borde
 
 The root of this conflict is global: India’s non-alignment policy in Asia is not rooted in a non-alignment of interests on the world stage. Owing to similar political and economic structures, India and the US are much better aligned on issues of global governance than India and China – and Beijing knows it. 
 
-Read the full article [here]
+Read the full article [here].
 
 (c) 2020, Singapore Press Holdings
 
