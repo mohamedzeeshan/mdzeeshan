@@ -6,7 +6,7 @@ permalink: /
 
 {% include image.html url="images/Newphoto.jpg" caption="" max_width="300px" align="right" %}
 
-Mohamed Zeeshan is a policy academic, journalist and author. He writes for The Diplomat on South Asian affairs and also authors 'The Z Factor' - a Sunday monthly column in the Deccan Herald. He has also written on foreign policy and international affairs for The Straits Times, The Sydney Morning Herald, The National Interest, India Today and other leading publications around the world. He is a Founding Partner of Freedom Gazette, an acclaimed Indian policy advocacy site, and holds a Master's degree in International Affairs from Columbia University. His first book - on India's quest for global leadership - comes out in January 2021, published by Penguin Random House.
+Mohamed Zeeshan is a policy academic, journalist and author. He writes for The Diplomat on South Asian affairs and also authors 'The Z Factor' - a Sunday monthly column in the Deccan Herald. He also writes on international affairs for The Straits Times, The Sydney Morning Herald, South China Morning Post, The National Interest, Haaretz, India Today and other leading publications around the world. He is a Founding Partner of Freedom Gazette, an acclaimed Indian policy advocacy site, and holds a Master's degree in International Affairs from Columbia University. His first book - on India's quest for global leadership - comes out in January 2021, published by Penguin Random House.
 
 ## Contact
 
