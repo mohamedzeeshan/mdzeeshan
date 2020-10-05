@@ -3,7 +3,8 @@ layout: post
 title: "India’s Identity Politics Has Reached Its Diaspora in the US"
 categories: ["India", "Indian diaspora", "United States", "Kamala Harris"]
 location: "The Diplomat"
-snippet: "India’s diaspora has long been New Delhi’s greatest and most influential asset in the West. But as it splinters along lines of religion, caste and age – driven by highly polarized views of the Modi government – it will become much less cohesive and effective as a lobby for Indian foreign-policy interests. The rise of Hindu nationalism in India has been aggressively welcomed by powerful Hindu-American groups in the U.S., but not everybody has been so happy. All these divisions within the diaspora have not gone unnoticed among American politicians. (Published in The Diplomat)"
+snippet: "India’s diaspora has long been New Delhi’s greatest and most influential asset in the West. But as it splinters along lines of religion, caste and age – driven by highly polarized views of the Modi government – it will become much less cohesive and effective as a lobby for Indian foreign-policy interests. The rise of Hindu nationalism in India has been aggressively welcomed by powerful Hindu-American groups in the U.S., but not everybody has been so happy. All these divisions within the diaspora have not gone unnoticed among American politicians. 
+(Published in The Diplomat)"
 ---
 
 Indians have rarely been a talking point in a U.S. presidential election. That has changed this year. After Joe Biden picked Kamala Harris, partly of Indian heritage, as his vice presidential candidate, President Donald Trump hit back with a campaign ad that featured Prime Minister Narendra Modi.
