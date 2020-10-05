@@ -3,7 +3,8 @@ layout: post
 title: "The Rajapaksas Open a Door for China in Sri Lanka"
 categories: ["India", "China", "Sri Lanka", "Rajapaksa", "South China Sea"]
 location: "The Diplomat"
-snippet: "Through a resounding election victory, Sri Lanka has returned the Rajapaksa family to power. In the recent parliamentary elections, the Rajapaksas’ Sri Lanka Podujana Peramuna (SLPP) party won a whopping 145 seats out of 225, amounting to nearly a two-thirds majority. But this wasn’t just any other election: It was a referendum on the style of leadership and politics that Sri Lankans prefer. For what it signifies, this election could have profound consequences for Sri Lankan democracy, the regional powers – India and China – and for peace and prosperity even as far as the South China Sea. (Published in The Diplomat)"
+snippet: "Through a resounding election victory, Sri Lanka has returned the Rajapaksa family to power. In the recent parliamentary elections, the Rajapaksas’ Sri Lanka Podujana Peramuna (SLPP) party won a whopping 145 seats out of 225, amounting to nearly a two-thirds majority. But this wasn’t just any other election: It was a referendum on the style of leadership and politics that Sri Lankans prefer. For what it signifies, this election could have profound consequences for Sri Lankan democracy, the regional powers – India and China – and for peace and prosperity even as far as the South China Sea. 
+(Published in The Diplomat)"
 ---
 
 Through a resounding election victory, Sri Lanka has returned the Rajapaksa family to power. In the recent parliamentary elections, the Rajapaksas’ Sri Lanka Podujana Peramuna (SLPP) party won a whopping 145 seats out of 225, amounting to nearly a two-thirds majority.
