@@ -3,7 +3,8 @@ layout: post
 title: "India Making a Bad Situation Worse: COVID and the Economy"
 categories: ["India", "COVID-19", "Narendra Modi", "economy", "lockdown"]
 location: "The Diplomat"
-snippet: "Most countries have seen their COVID-19 case curves dip or flatten in recent weeks – including the United States and Brazil. Some have seen case counts take off again in a second wave of infections. But for India, there has been no dip or flattening since the beginning of the pandemic. The curve has soared relentlessly and India is now adding far more cases each day than any country in the world – and is breaking its own records with every successive day. Yet, the government’s response has been a crisis of miscommunication. (Published in The Diplomat)"
+snippet: "Most countries have seen their COVID-19 case curves dip or flatten in recent weeks – including the United States and Brazil. Some have seen case counts take off again in a second wave of infections. But for India, there has been no dip or flattening since the beginning of the pandemic. The curve has soared relentlessly and India is now adding far more cases each day than any country in the world – and is breaking its own records with every successive day. Yet, the government’s response has been a crisis of miscommunication. 
+(Published in The Diplomat)"
 ---
 
 Thanks to a combination of the economic chaos that preceded the pandemic, the nationwide lockdown that ran for weeks, and the insufficient financial package that followed it, estimates indicate that India’s GDP has suffered the worst contraction among all G-20 economies – losing almost a quarter of its value, annualized.
