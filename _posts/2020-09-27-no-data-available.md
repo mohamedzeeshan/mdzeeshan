@@ -3,7 +3,7 @@ layout: post
 title: "The Z Factor: NDA: No Data Available?"
 categories: ["India", "Narendra Modi", "governance", "coronavirus", "COVID-19"]
 location: "Deccan Herald"
-snippet: "Commentary in both India and the US is now increasingly sceptical of the UN and its agencies. Even more worryingly, in the US, right-wing nationalists see multilateralism and global cooperation as a sign of weakness, thereby making multilateral decision-making in UN ‘talk shops’ increasingly costly for the President. This is a worrying trend. Abandoning global decision-making forums and yielding them to China is a problem for both India and the US. (Published in Deccan Herald)"
+snippet: "Lack of transparency on basic data is not unusual in authoritarian regimes. Data means accountability. If officers collect data, it opens them up to questions on their performance: Why were more people robbed in their region than elsewhere? Why have fires been more frequent in the last couple of years? Why are death rates in their area higher than the national average? (Published in Deccan Herald)"
 ---
 
 All through this month, Union ministers have been submitting before the nation that they don’t know most things about most things: There is no data on how many migrant workers died during the lockdown, nor even how many doctors and healthcare workers on Covid-19 duty have died, how many farmers committed suicide, or how many people lost jobs. As I watched the Modi government do this each day, I was reminded of my time as a policy consultant in the Middle East last year.
