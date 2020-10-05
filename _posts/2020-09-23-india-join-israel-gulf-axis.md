@@ -3,7 +3,8 @@ layout: post
 title: "India Must Join the Israel-Gulf Axis in the Middle East’s New Cold War"
 categories: ["Israel", "Arab deals", "Iran", "Middle East", "Afghanistan", "Pakistan"]
 location: "Haaretz"
-snippet: "As New Delhi continued its outreach towards Tehran, the Gulf was embarking on a historic embrace of Israel, driven in large part by the shared animosity among those countries towards Iran. Israel’s newfound friendship with the Gulf states now poses both opportunities and challenges for India. Yet, so far, New Delhi has shied away from addressing them – insisting, instead, on hewing to its traditional policy of non-alignment or "non-involvement." The real geopolitical consequence for India is going to be in Afghanistan – New Delhi’s big state-building project. (Published in Haaretz)"
+snippet: "As New Delhi continued its outreach towards Tehran, the Gulf was embarking on a historic embrace of Israel, driven in large part by the shared animosity among those countries towards Iran. Israel’s newfound friendship with the Gulf states now poses both opportunities and challenges for India. Yet, so far, New Delhi has shied away from addressing them – insisting, instead, on hewing to its traditional policy of non-alignment or "non-involvement." The real geopolitical consequence for India is going to be in Afghanistan – New Delhi’s big state-building project. 
+(Published in Haaretz)"
 ---
 
 India’s Foreign Minister Subrahmanyam Jaishankar and Defense Minister Rajnath Singh visited Iran recently. Their goal was to revive the massive, strategic Indo-Iranian projects tied to the Chabahar port and transport hubs, part of which Iran recently decided to proceed with alone, and to counter arch-rival China’s growing strategic ties with Tehran. 
