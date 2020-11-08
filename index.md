@@ -6,7 +6,7 @@ permalink: /
 
 {% include image.html url="images/zee2.png" caption="" max_width="300px" align="right" %}
 
-Mohamed Zeeshan is a policy academic, columnist and author. He writes for The Diplomat on South Asian affairs and also authors 'The Z Factor' - a Sunday monthly column in the Deccan Herald. He also writes on international affairs for The Straits Times, The Sydney Morning Herald, South China Morning Post, The National Interest, Haaretz, India Today and other leading publications around the world. He is a Founding Partner of Freedom Gazette, an acclaimed Indian policy advocacy site, and holds a Master's degree in International Affairs from Columbia University. His first book, titled 'Flying Blind: India's Quest for Global Leadership', comes out in January 2021, published by Penguin Random House.
+Mohamed Zeeshan is a policy analyst, columnist and author. He writes for The Diplomat on South Asian affairs and also authors 'The Z Factor' - a Sunday monthly column in the Deccan Herald. He also writes on international affairs for The Straits Times, The Sydney Morning Herald, South China Morning Post, The National Interest, Haaretz, India Today and other leading publications around the world. He is a Founding Partner of Freedom Gazette, an acclaimed Indian policy advocacy site, and holds a Master's degree in International Affairs from Columbia University. His first book, titled 'Flying Blind: India's Quest for Global Leadership', comes out in January 2021, published by Penguin Random House.
 
 ## Contact
 
