@@ -19,7 +19,7 @@ Follow him on Twitter @[ZeeMohamed_] and on LinkedIn at [mohamedzeeshan]
 To visit and contribute to the Freedom Gazette, [click here]
 
 [Check out]: https://penguin.co.in/book/flying-blind/
-[preorder]: https://www.amazon.in/dp/0670094463
+[preorder]: https://linktr.ee/FlyingBlind
 [r.mohamedzeeshan@columbia.edu]: mailto:r.mohamedzeeshan@columbia.edu
 [mohamedzeeshan]: https://www.linkedin.com/in/mohamedzeeshan/
 [ZeeMohamed_]: https://twitter.com/ZeeMohamed_
